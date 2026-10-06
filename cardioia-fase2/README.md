@@ -8,7 +8,7 @@ Nesta fase, o CardioIA usa **NLP e classificação de texto** para (1) extrair s
 
 ## 🎥 Vídeo de demonstração
 
-**[ADICIONAR AQUI O LINK DO YOUTUBE (NÃO LISTADO)]**
+https://youtu.be/PlEVXTk_HYA
 
 ## 👥 Integrantes
 
