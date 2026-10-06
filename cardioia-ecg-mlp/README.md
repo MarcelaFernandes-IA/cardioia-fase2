@@ -6,7 +6,7 @@ Notebook que treina uma **rede neural MLP (Keras)** para classificar batimentos 
 
 ## 🎥 Vídeo de demonstração
 
-**[ADICIONAR AQUI O LINK DO YOUTUBE (NÃO LISTADO)]**
+https://youtu.be/Rkloc5MiBnI
 
 ## 👥 Integrantes
 
