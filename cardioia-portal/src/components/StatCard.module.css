@@ -1,0 +1,5 @@
+.card { background: var(--cor-superficie); border: 1px solid var(--cor-borda); border-radius: var(--raio); box-shadow: var(--sombra); padding: 18px; display: flex; flex-direction: column; gap: 4px; }
+.titulo { color: var(--cor-texto-suave); font-size: 0.85rem; }
+.valor { font-size: 2rem; line-height: 1.1; }
+.detalhe { font-size: 0.8rem; color: var(--cor-texto-suave); }
+.destaque { border-left: 5px solid var(--cor-primaria); }

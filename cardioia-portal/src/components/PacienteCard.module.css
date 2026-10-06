@@ -1,0 +1,10 @@
+.card { background: var(--cor-superficie); border: 1px solid var(--cor-borda); border-radius: var(--raio); box-shadow: var(--sombra); padding: 16px; }
+.topo { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; margin-bottom: 12px; }
+.topo h3 { font-size: 1.05rem; }
+.etiqueta, .etiquetaRotina { font-size: 0.72rem; font-weight: 600; padding: 3px 9px; border-radius: 999px; white-space: nowrap; }
+.etiqueta { background: #ffe4ea; color: var(--cor-primaria-escura); }
+.etiquetaRotina { background: #dcfce7; color: var(--cor-sucesso); }
+.dados { margin: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px 12px; }
+.dados dt { font-size: 0.72rem; color: var(--cor-texto-suave); text-transform: uppercase; letter-spacing: 0.04em; }
+.dados dd { margin: 0; font-size: 0.9rem; word-break: break-word; }
+@media (max-width: 420px) { .dados { grid-template-columns: 1fr; } }

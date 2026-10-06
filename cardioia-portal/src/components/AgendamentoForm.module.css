@@ -1,0 +1,10 @@
+.form { background: var(--cor-superficie); border: 1px solid var(--cor-borda); border-radius: var(--raio); box-shadow: var(--sombra); padding: 20px; display: flex; flex-direction: column; gap: 14px; }
+.linha { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+.campo { display: flex; flex-direction: column; gap: 4px; font-size: 0.88rem; font-weight: 600; }
+.campo input, .campo select, .campo textarea { padding: 9px 10px; border: 1px solid var(--cor-borda); border-radius: 8px; background: #fff; font-weight: 400; color: var(--cor-texto); }
+.campo input:focus, .campo select:focus, .campo textarea:focus { outline: 2px solid var(--cor-primaria); outline-offset: 1px; }
+.erro { color: var(--cor-primaria-escura); font-size: 0.78rem; font-weight: 500; }
+.botao { background: var(--cor-primaria); color: #fff; border: 0; border-radius: 8px; padding: 11px; font-weight: 600; cursor: pointer; }
+.botao:hover { background: var(--cor-primaria-escura); }
+.sucesso { margin: 0; color: var(--cor-sucesso); font-weight: 600; }
+@media (max-width: 480px) { .linha { grid-template-columns: 1fr; } }

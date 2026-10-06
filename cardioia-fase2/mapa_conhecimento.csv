@@ -1,0 +1,38 @@
+﻿Sintoma 1;Sintoma 2;Doença Associada
+dor no peito;suor frio;Infarto
+dor no peito;dor no braço esquerdo;Infarto
+dor no peito;náusea;Infarto
+pressão no peito;suor frio;Infarto
+dor no peito;irradia para o braço;Infarto
+dor no peito;dor na mandíbula;Infarto
+dor no peito;esforço;Angina
+aperto no peito;esforço;Angina
+aperto no peito;subir escadas;Angina
+aperto no peito;subo escadas;Angina
+dor no peito;falta de ar;Angina
+pressão no peito;esforço;Angina
+cansaço constante;dificuldade para realizar;Insuficiência Cardíaca
+cansaço;inchaço nas pernas;Insuficiência Cardíaca
+cansaço;falta de ar;Insuficiência Cardíaca
+falta de ar;dificuldade para respirar;Insuficiência Cardíaca
+falta de ar;dormir quando estou deitado;Insuficiência Cardíaca
+falta de ar;dormir deitado;Insuficiência Cardíaca
+inchaço nas pernas;ganho de peso;Insuficiência Cardíaca
+inchaço nos pés;cansaço;Insuficiência Cardíaca
+palpitações;coração batendo rápido;Taquicardia
+palpitações;coração batendo muito rápido;Taquicardia
+palpitações;coração acelerado;Taquicardia
+coração disparado;falta de ar;Taquicardia
+batimentos acelerados;mesmo parado;Taquicardia
+coração irregular;batimentos irregulares;Arritmia
+palpitações;batimentos irregulares;Arritmia
+bater de maneira irregular;pulos no peito;Arritmia
+coração falhando;batimentos irregulares;Arritmia
+coração pula;batimentos irregulares;Arritmia
+tontura;fraqueza;Hipotensão
+tontura;levanto rapidamente;Hipotensão
+visão escurecendo;levanto rapidamente;Hipotensão
+tontura;desmaio;Hipotensão
+dor de cabeça forte;visão embaçada;Hipertensão
+dor de cabeça;zumbido no ouvido;Hipertensão
+dor na nuca;pressão alta;Hipertensão

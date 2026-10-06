@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nome": "Ana Beatriz Souza", "idade": 54, "email": "ana.souza@email.com", "telefone": "(11) 91234-0001", "cidade": "São Paulo", "condicao": "Hipertensão" },
+  { "id": 2, "nome": "Carlos Eduardo Lima", "idade": 61, "email": "carlos.lima@email.com", "telefone": "(21) 91234-0002", "cidade": "Rio de Janeiro", "condicao": "Angina" },
+  { "id": 3, "nome": "Mariana Ferreira", "idade": 47, "email": "mariana.f@email.com", "telefone": "(31) 91234-0003", "cidade": "Belo Horizonte", "condicao": "Arritmia" },
+  { "id": 4, "nome": "João Pedro Almeida", "idade": 68, "email": "joao.almeida@email.com", "telefone": "(41) 91234-0004", "cidade": "Curitiba", "condicao": "Insuficiência Cardíaca" },
+  { "id": 5, "nome": "Fernanda Oliveira", "idade": 39, "email": "fernanda.o@email.com", "telefone": "(51) 91234-0005", "cidade": "Porto Alegre", "condicao": "Taquicardia" },
+  { "id": 6, "nome": "Ricardo Santos", "idade": 72, "email": "ricardo.s@email.com", "telefone": "(61) 91234-0006", "cidade": "Brasília", "condicao": "Hipertensão" },
+  { "id": 7, "nome": "Luciana Martins", "idade": 58, "email": "luciana.m@email.com", "telefone": "(71) 91234-0007", "cidade": "Salvador", "condicao": "Acompanhamento de rotina" },
+  { "id": 8, "nome": "Paulo Henrique Costa", "idade": 65, "email": "paulo.costa@email.com", "telefone": "(81) 91234-0008", "cidade": "Recife", "condicao": "Angina" },
+  { "id": 9, "nome": "Juliana Rocha", "idade": 44, "email": "juliana.r@email.com", "telefone": "(85) 91234-0009", "cidade": "Fortaleza", "condicao": "Arritmia" },
+  { "id": 10, "nome": "Marcos Vinícius Pires", "idade": 70, "email": "marcos.pires@email.com", "telefone": "(92) 91234-0010", "cidade": "Manaus", "condicao": "Insuficiência Cardíaca" },
+  { "id": 11, "nome": "Patrícia Gomes", "idade": 52, "email": "patricia.g@email.com", "telefone": "(62) 91234-0011", "cidade": "Goiânia", "condicao": "Hipertensão" },
+  { "id": 12, "nome": "Rafael Mendes", "idade": 41, "email": "rafael.m@email.com", "telefone": "(48) 91234-0012", "cidade": "Florianópolis", "condicao": "Acompanhamento de rotina" }
+]
