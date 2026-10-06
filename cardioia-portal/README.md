@@ -6,7 +6,7 @@ Portal responsivo que simula a rotina de um sistema de diagnóstico em cardiolog
 
 ## 🎥 Vídeo de demonstração
 
-**[ADICIONAR AQUI O LINK DO YOUTUBE (NÃO LISTADO)]**
+https://youtu.be/Rp1E11sUhis
 
 ## 👥 Integrantes
 
